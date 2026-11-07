@@ -1,7 +1,6 @@
 name = "cfnew-gary"
 main = "_worker.js"
 compatibility_date = "2026-01-20"
-pages_build_output_dir = "."
 
 [vars]
 u = "7bf5d154-ff9b-4338-b5a2-b01831071f0d"
